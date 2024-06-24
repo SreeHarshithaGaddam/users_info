@@ -1,4 +1,4 @@
-ApiVersion: backstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1
 Kind: User
 Metadata:
   Name: new_user10
