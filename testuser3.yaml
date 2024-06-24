@@ -3,4 +3,4 @@ kind: User
 metadata:
   name: new_user3
 spec:
-  memberOf: "undefined"
+  memberOf: ""
